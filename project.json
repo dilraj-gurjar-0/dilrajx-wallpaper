@@ -1,0 +1,24 @@
+{
+  "overview": "A stunning 4K wallpaper gallery app where users can browse, search, and download luxury car, Avengers, Spider-Man, and lifestyle wallpapers. Features category filters, full-screen previews, and the ability to save favorites.",
+  "features": [
+    "Browse wallpapers by category: Luxury Cars, Avengers, Spider-Man, 4K Nature",
+    "Full-screen wallpaper preview with download to device",
+    "Favorites system using local storage",
+    "Search bar to find wallpapers by name or keyword",
+    "Responsive mobile-first design for phone, tablet, desktop",
+    "Wallpaper resolution labels (4K, HD)"
+  ],
+  "category": "entertainment",
+  "tags": [
+    "wallpaper",
+    "4k",
+    "gallery",
+    "luxury-cars",
+    "avengers",
+    "spider-man",
+    "download",
+    "favorites",
+    "mobile"
+  ],
+  "last_updated": "2026-04-19T03:22:16.586Z"
+}
